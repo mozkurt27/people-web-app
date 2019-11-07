@@ -11,7 +11,7 @@
 .create-poll-form-button[disabled], .create-poll-form-button[disabled]:hover, .create-poll-form-button[disabled]:focus {
     opacity: 0.6;
     color: #fff;
-    background-color: #1890ff;
+    background-color: #18ff5d;
     border-color: #1890ff;
 }
 
